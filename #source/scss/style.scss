@@ -1,6 +1,13 @@
-h1{
-   color: red;
-}
+@import "header";
+
 .block{
+   text-align: center;
+   line-height: 28px;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   font-size: 24px;
    color: blue;
+}
+img{
+   max-width: 100%;
+   min-width: 20%;
 }
